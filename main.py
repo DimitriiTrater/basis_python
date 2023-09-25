@@ -9,7 +9,6 @@ def main():
     print("ex.   1")
     print("ex. 2.1")
     print("ex. 2.2")
-    print("ex. 2.3")
     print("#############")
     nex = input("Num of ex: ")
     if (nex == "1"):
